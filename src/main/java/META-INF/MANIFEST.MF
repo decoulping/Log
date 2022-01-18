@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+Main-Class: com.lepin.mytest.MytestApplication
+Class-Path: spring-tx-5.3.14.jar spring-expression-5.3.14.jar HikariCP-4
+ .0.3.jar snakeyaml-1.29.jar jackson-core-2.13.1.jar slf4j-api-1.7.32.ja
+ r mybatis-plus-boot-starter-3.0.6.jar spring-boot-starter-tomcat-2.6.2.
+ jar spring-boot-configuration-processor-2.6.2.jar mybatis-plus-extensio
+ n-3.0.6.jar spring-web-5.3.14.jar mybatis-plus-annotation-3.0.6.jar spr
+ ing-jdbc-5.3.14.jar jackson-databind-2.13.1.jar lombok-1.18.22.jar tomc
+ at-embed-el-9.0.56.jar mybatis-plus-generator-3.0.6.jar jackson-module-
+ parameter-names-2.13.1.jar jul-to-slf4j-1.7.32.jar jackson-annotations-
+ 2.13.1.jar tomcat-embed-core-9.0.56.jar spring-core-5.3.14.jar spring-w
+ ebmvc-5.3.14.jar spring-boot-starter-logging-2.6.2.jar jakarta.annotati
+ on-api-1.3.5.jar mysql-connector-java-8.0.27.jar spring-boot-starter-2.
+ 6.2.jar spring-jcl-5.3.14.jar spring-boot-autoconfigure-2.6.2.jar jacks
+ on-datatype-jsr310-2.13.1.jar spring-boot-test-2.6.2.jar druid-spring-b
+ oot-starter-1.1.23.jar spring-boot-2.6.2.jar tomcat-embed-websocket-9.0
+ .56.jar log4j-api-2.17.0.jar spring-boot-starter-jdbc-2.6.2.jar logback
+ -core-1.2.9.jar spring-context-5.3.14.jar mybatis-plus-core-3.0.6.jar s
+ pring-boot-starter-json-2.6.2.jar spring-boot-starter-web-2.6.2.jar dru
+ id-1.1.23.jar jsqlparser-1.2.jar log4j-to-slf4j-2.17.0.jar spring-beans
+ -5.3.14.jar logback-classic-1.2.9.jar mybatis-plus-3.0.6.jar mybatis-sp
+ ring-1.3.2.jar jackson-datatype-jdk8-2.13.1.jar mybatis-3.4.6.jar sprin
+ g-aop-5.3.14.jar
+
