@@ -14,6 +14,7 @@ public class CreditOrderServiceImpl implements ICreditOrderService {
 
     @Override
     public String getUserIdByOrderId(String orderId) {
+        System.out.println("hello");
         return "creditOrderMapper.selectUserIdById(orderId)";
     }
 
